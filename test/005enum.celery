@@ -1,0 +1,1 @@
+struct en = a:enum{"b","c"}

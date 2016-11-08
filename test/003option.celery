@@ -1,0 +1,3 @@
+struct opt = a:boolean
+             b?:boolean
+             

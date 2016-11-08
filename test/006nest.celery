@@ -1,0 +1,2 @@
+struct nest = a:boolean
+              b?:nest
